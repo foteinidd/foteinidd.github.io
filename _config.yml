@@ -83,12 +83,12 @@ author:
   name             : "Foteini Dervisi"
   avatar           : "profile.png"
   bio              : "Marie Skłodowska-Curie Early Stage Researcher at the British Geological Survey | PhD student at The University of Edinburgh"
-  location         : "Edinburgh, UK"
+  location         :
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0zBKxUQAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Foteini-Dervisi-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

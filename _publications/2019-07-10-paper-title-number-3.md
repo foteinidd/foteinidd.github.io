@@ -1,7 +1,7 @@
 ---
 title: "Hybrid mmWave / Free Space Optical Design with the use of NOMA techniques for 5G Backhaul Networks (in Greek)"
 collection: publications
-permalink: /publication/2019-07-10-paper-title-number-2
+permalink: /publication/2019-07-10-paper-title-number-3
 date: 2019-07-10
 venue: 'Electrical and Computer Engineering Diploma Thesis, Aristotle University of Thessaloniki'
 paperurl: 'https://ikee.lib.auth.gr/record/305690'

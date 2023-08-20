@@ -1,8 +1,8 @@
 ---
 title: "An energy efficient modulation scheme for body-centric nano-communications in the THz band"
 collection: publications
-permalink: /publication/2018-05-07-paper-title-number-1
-date: 2018-05-07
+permalink: /publication/2019-07-10-paper-title-number-1
+date: 2019-07-10
 venue: '2018 7th International Conference on Modern Circuits and Systems Technologies (MOCAST)'
 paperurl: 'https://ieeexplore.ieee.org/document/8376563'
 ---

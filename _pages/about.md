@@ -11,11 +11,11 @@ redirect_from:
 <div style="text-align: justify">
 I graduated with an integrated master's degree in Electrical and Computer Engineering from the Aristotle University of Thessaloniki in 2019 and I also hold an MSc in Artificial Intelligence and Data Analytics from the University of Macedonia, which I obtained in 2022. During my undergraduate studies, I conducted research on body-centric terahertz nanonetworks and hybrid mmWave and free space optical wireless telecommunication systems within the Wireless Communications and Information Processing Lab at the Aristotle University of Thessaloniki. I also completed an internship at NET2GRID, where I worked on multiphase load detection and clustering and on using reactive power measurements in non-intrusive load monitoring.
 </div>
-
+<p>&nbsp;</p>
 <div style="text-align: justify">
 After graduating, I worked as a research assistant at the Information Technologies Institute of the Centre for Research & Technology Hellas. I was involved in EU Horizon 2020 research projects related to machine learning, computer vision and natural language processing. I also worked as a machine learning engineer at Pragma-IoT.
 </div>
-
+<p>&nbsp;</p>
 <div style="text-align: justify">
 I am currently a Marie Skłodowska-Curie Early Stage Researcher at the British Geological Survey and a PhD student at the University of Edinburgh. I am involved in the EU Horizon 2020 SPIN Innovative Training Network and am working on machine learning-based earthquake monitoring and forecasting.
 </div>
